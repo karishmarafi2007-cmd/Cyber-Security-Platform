@@ -34,7 +34,7 @@ Queue → for BFS traversal
 
 ***Compilation Instructions***
 <p align="center">
-  <img src="![PRO1](https://github.com/user-attachments/assets/e7b296b1-7128-4f60-aeb9-e7fc9099fdaf)
+  <img src="https://github.com/karishmarafi2007-cmd/Cyber-Security-Platform/blob/b1f436457f44c29234621ca2fb3df2da21183a59/PRO1.jpeg
 " width="500">
 </p>
 

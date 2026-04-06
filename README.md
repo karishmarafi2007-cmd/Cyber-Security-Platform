@@ -40,7 +40,7 @@ Queue → for BFS traversal
 
 ***Sample Output***
 <p align="center">
-  <img src="![PRO2](https://github.com/user-attachments/assets/51c7697e-6456-4950-b67a-2ad740fa13af)
+  <img src="PRO2.jpeg
 " width="500">
 </p>
 Plain text

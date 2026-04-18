@@ -32,24 +32,16 @@ Queue → for BFS traversal
 
 6)Delete threats when needed
 
-***Compilation Instructions***
-<p align="center">
-  <img src="https://github.com/karishmarafi2007-cmd/Cyber-Security-Platform/blob/b1f436457f44c29234621ca2fb3df2da21183a59/PRO1.jpeg
-" width="500">
-</p>
+**Compilation Instructions**
 
-***Sample Output***
-<p align="center">
-  <img src="PRO2.jpeg
-" width="500">
-</p>
-Plain text
-Created threat 'APT29'
-Created threat 'Emotet'
-Added relationship: APT29 --> Emotet
-BFS Threat Propagation Analysis
-Demo Video Link
-(Add your video link here)
+<img width="861" height="419" alt="Image" src="https://github.com/user-attachments/assets/b9377894-6879-4661-9d8a-9687c9dbbc8a" />
+
+<img width="848" height="275" alt="Image" src="https://github.com/user-attachments/assets/07204b03-8724-4737-8404-92115b1f921c" />
+
+**Sample Output**
+
+<img width="919" height="273" alt="Image" src="https://github.com/user-attachments/assets/c128cb1d-fac1-4eee-b8da-d9b873d37404" />
+
 
 
 **********1. Abstract:**********
